@@ -1,4 +1,3 @@
 # TypeScriptSample
-
 # myfirstchange3
 
